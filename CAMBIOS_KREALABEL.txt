@@ -1,0 +1,32 @@
+
+** - Poner versión programa
+** - Poner tooltip
+** - Poner etiquetas de cuando lee un producto y sonidos
+
+
+** - Con el escaner, mirar el enter
+** - Carácter raro
+** - Error al imprimir
+** - Preparar para imprimir la primera vez
+** - EL FILTRO DE LA PANTALLA DE CAMBIO DE PRECIOS????
+** - Si en camboi de precios, si hay un artículo pendiente de imprimir 
+**   que sale hoy, desmarcarlo para que solo se imprima el último.
+** - Esto de cambio de precios, que no saque muchos
+
+** - Que salgan todos los productos para imprimr
+- Fuentes de diseño
+** - Opción de borrar los artículos
+** - Como consulto los cambios de precio
+** - Cuando da un error, luego siempre sale KO
+- Modificar los messagebox
+** - Reproducir sonidos
+** - Tecla ESC
+** - Pantalla de db
+**  - Diseño, ancho de columnas
+
+
+
+* QUITAR CAMPO IMPRESO DE ARTÍCULOS
+* poner sonidos
+
+337964
